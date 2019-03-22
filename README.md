@@ -3,7 +3,7 @@ Automatically exported from code.google.com/p/praticarh
 
 This repo is no longer updated. 
 
-![Logo](https://github.com/steffensbola/praticarh/blob/master/logo.jpg logo)
+![Logo](https://github.com/steffensbola/praticarh/blob/master/logo.jpg "Organic PM")
 References:
 ```
 @article{butzkeelaboraccao,
